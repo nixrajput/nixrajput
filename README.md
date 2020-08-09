@@ -41,9 +41,10 @@
 
 ---
 
-<img align="left" alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />(https://github.com/nixrajput/nixrajput)
+<img align="left" alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&layout=compact)](https://github.com/nixrajput/nixrajput)
+<img align="right" alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&layout=compact" />
+
 
 [webdevplaylist]: https://github.com/nixrajput
 [website]: https://welearn-django.herokuapp.com
