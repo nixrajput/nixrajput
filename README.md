@@ -1,4 +1,4 @@
-### Hi there, I'm NIKHIL - aka [nixrajput] 👋
+### Hi there, I'm NIKHIL - aka [nixrajput][website] 👋
 
 ## I'm a Student, Developer, and Founder of NixLab Inc!
 - 🔭 I’m currently working on a [Vedam EduPoint][website]!
@@ -42,6 +42,8 @@
 ---
 
 <img align="left" alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&layout=compact)]
 
 [webdevplaylist]: https://github.com/nixrajput
 [website]: https://welearn-django.herokuapp.com
