@@ -1,7 +1,7 @@
 ### Hi there, I'm NIKHIL - aka [nixrajput] 👋
 
 ## I'm a Student, Developer, and Founder of NixLab Inc!
-- 🔭 I’m currently working on a [Vedam EduPoint][https://welearn-django.herokuapp.com]!
+- 🔭 I’m currently working on a [Vedam EduPoint][website]!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Learn Full Stack Web and Mobile Development.
@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nixrajput" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://welearn-django.herokuapp.com]
-[<img align="left" alt="nixrajput | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://facebook.com/nixrajput07]
-[<img align="left" alt="nixrajput | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/nixrajput07]
-[<img align="left" alt="nixrajput | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/nixrajput]
-[<img align="left" alt="nixrajput | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/in/nixrajput]
+[<img align="left" alt="nixrajput" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nixrajput | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="nixrajput | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nixrajput | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nixrajput | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,6 +43,7 @@
 
 <img align="left" alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />
 
+[webdevplaylist]: https://github.com/nixrajput
 [website]: https://welearn-django.herokuapp.com
 [facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
