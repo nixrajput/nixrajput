@@ -42,9 +42,11 @@
 
 ---
 
-[<img align="center" alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />][github]
+<p align="center">
+[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />][github]
 
-[<img align="center" alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&layout=compact" />][github]
+[<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true" />][github]
+</p>
 
 
 [github]: https://github.com/nixrajput/nixrajput
