@@ -59,9 +59,9 @@
 [<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true" />][github]
 
 
-[github]: https://github.com/nixrajput/nixrajput
+[github]: https://github.com/nixrajput
 [webdevplaylist]: https://github.com/nixrajput
-[website]: https://welearn-django.herokuapp.com
+[website]: https://vedam-edupoint.herokuapp.com
 [facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
