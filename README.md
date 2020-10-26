@@ -1,10 +1,10 @@
 ### Hi there, I'm NIKHIL - aka [nixrajput][website] 👋
 
 ## I'm a Student, Developer, and Founder of NixLab Inc!
-- 🔭 I’m currently working on a [Vedam EduPoint][website]!
+- 🔭 I’m currently working with [Vedam EduPoint][website]!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Learn Full Stack Web and Mobile Development.
+- 🥅 2020 Goals: Learn Full Stack Web Development and Mobile Development.
 - ⚡ Fun fact: I love to play and watch Cricket/Football.
 
 ### Connect with me:
