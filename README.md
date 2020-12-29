@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nixrajput" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][me]
-[<img align="left" alt="nixrajput | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="nixrajput | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nixrajput | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nixrajput | GitHub" width="24px" src="/icons/github-brands.svg" />][website]
+[<img align="left" alt="nixrajput | Facebook" width="24px" src="/icons/facebook-brands.svg" />][facebook]
+[<img align="left" alt="nixrajput | Twitter" width="24px" src="/icons/twitter-brands.svg" />][twitter]
+[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="/icons/linkedin-in-brands.svg" />][linkedin]
+[<img align="left" alt="nixrajput | Instagram" width="24px" src="/icons/instagram-brands.svg" />][instagram]
 
 <br />
 
