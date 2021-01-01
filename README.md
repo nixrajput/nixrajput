@@ -1,6 +1,7 @@
 ### Hi there, I'm NIKHIL - aka [nixrajput][me] 👋
 
 ## I'm a Student, Developer, and Founder of NixLab Inc!
+
 - 🔭 I’m currently working on Java, Flutter & Django!
 - 🌱 I’m currently learning JavaScript, Blockchain & Firrebase.
 - 👯 I’m looking to collaborate with other open-source [GitHub][github] content creators.
@@ -9,11 +10,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nixrajput | GitHub" width="24px" src="/icons/github-brands.svg" />][website]
-[<img align="left" alt="nixrajput | Facebook" width="24px" src="/icons/facebook-brands.svg" />][facebook]
-[<img align="left" alt="nixrajput | Twitter" width="24px" src="/icons/twitter-brands.svg" />][twitter]
-[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="/icons/linkedin-in-brands.svg" />][linkedin]
-[<img align="left" alt="nixrajput | Instagram" width="24px" src="/icons/instagram-brands.svg" />][instagram]
+[<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][website]
+
+[<img align="left" alt="nixrajput | Facebook" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/facebook-brands.svg" />][facebook]
+
+[<img align="left" alt="nixrajput | Twitter" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/twitter-brands.svg" />][twitter]
+
+[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/linkedin-in-brands.svg" />][linkedin]
+
+[<img align="left" alt="nixrajput | Instagram" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/instagram-brands.svg" />][instagram]
+
 
 <br />
 
