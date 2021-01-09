@@ -1,14 +1,14 @@
-### Hi there, I'm NIKHIL - aka [nixrajput][me] 👋
+# Hi there, I'm NIKHIL - aka [nixrajput][me] 👋
 
-## I'm a Student, Developer, and Founder of NixLab Inc!
+## I'm a Student, Developer, and Founder of [NixLab Inc][website]
 
-- 🔭 I’m currently working on Java, Flutter & Django!
-- 🌱 I’m currently learning JavaScript, Blockchain & Firrebase.
-- 👯 I’m looking to collaborate with other open-source [GitHub][github] content creators.
-- 🥅 2020 Goals: Learn Full Stack Web Development.
-- ⚡ Fun fact: I am a Cricket & Football enthusiast.
+- I’m currently working on Java, Flutter & Django!
+- I’m currently learning JavaScript, Blockchain & Firebase.
+- I’m looking to collaborate with other open-source [GitHub][github] content creators.
+- 2021 Goals: Learn Full Stack Web Development.
+- Fun fact: I am a Cricket & Football enthusiast.
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][website]
 
@@ -20,10 +20,9 @@
 
 [<img align="left" alt="nixrajput | Instagram" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/instagram-brands.svg" />][instagram]
 
-
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][me]
 
@@ -62,11 +61,10 @@
 
 [<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true" />][me]
 
-
 [github]: https://github.com
 [me]: https://github.com/nixrajput
-[website]: https://vedam-edupoint.herokuapp.com
+[website]: https://nixlab-llc.herokuapp.com
 [facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
+[linkedin]: https://linkedin.com/in/
