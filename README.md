@@ -1,6 +1,6 @@
 # Hi there, I'm NIKHIL - aka [nixrajput][me] 👋
 
-## I'm a Student, Developer, and Founder of [NixLab Inc][website]
+## I'm a Student, Developer, and Founder of [NixLab LLC][website].
 
 - I’m currently working on Java, Flutter & Django!
 - I’m currently learning JavaScript, Blockchain & Firebase.
