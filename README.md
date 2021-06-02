@@ -2,15 +2,30 @@
 
 ## I'm a Student, Developer, and Founder of [NixLab][website].
 
-- I’m currently working on Java, Flutter & Django!
-- I’m currently learning JavaScript, Blockchain & Firebase.
+- I’m currently working on Java, Flutter, ReactJS & Python!
 - I’m looking to collaborate with other open-source [GitHub][github] content creators.
-- 2021 Goals: Learn Full Stack Web Development.
 - Fun fact: I am a Cricket & Football enthusiast.
+
+### Technical Skills
+
+- Java
+- Python
+- Dart
+- C++
+- JavaScript
+- RDBMS
+- Ethical Hacking
+
+### Technical Specialization
+
+- Flutter
+- React
+- Django
+- Firebase
 
 ### Connect with me
 
-[<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/globe.svg" />][website]
+[<img align="left" alt="nixrajput | Website" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/globe-icon.svg" />][website]
 
 [<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][me]
 
