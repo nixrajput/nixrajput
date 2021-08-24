@@ -5,7 +5,8 @@
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nixrajput" alt="nixrajput"/> 
+<img src="https://komarev.com/ghpvc/?username=nixrajput&style=flat-square" alt="nixrajput views"/> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/nixrajput?style=flat-square">
 </p>
 
 # Work Profile
@@ -35,31 +36,31 @@
 
   ## *Databases*
 
-  * **MySQL**
-  * **PostgreSQL**
-  * **MongoDB**
-  * **SQLite**
+    * **MySQL**
+    * **PostgreSQL**
+    * **MongoDB**
+    * **SQLite**
 
   ## *Frameworks*
 
-  * **Flutter**
-  * **React JS**
-  * **Django**
+    * **Flutter**
+    * **React JS**
+    * **Django**
 
   ## Other Skills
 
-  * **Linux**
-  * **Firebase**
-  * **AWS**
+    * **Linux**
+    * **Firebase**
+    * **AWS**
 
   ## *Connect with me*
 
-  * [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
-  * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
-  * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
-  * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
-  * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
-  * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
+    * [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
+    * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
+    * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
+    * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
+    * [![Website: nixlab](https://img.shields.io/badge/-nixlab-blue?style=social&logo=GoogleChrome&link=https://nixalb.co.in)](https://nixalb.co.in)
+    * [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
 <br>
 
