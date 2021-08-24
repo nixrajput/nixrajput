@@ -14,6 +14,8 @@
   * **Flutter Developer @ Techox LLP.**
   * **Founder & CEO of [NixLab][website].**
 
+<br>
+
 # Personal Details
 
 *I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
@@ -53,6 +55,7 @@
   * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
   * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
+<br>
 
 # Languages and Tools
 
