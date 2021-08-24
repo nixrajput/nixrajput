@@ -16,11 +16,13 @@
 
 # Personal Details
 
-**I'm a Student & Full Stack Developer.**
+*I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
 
-- I’m a well experienced developer in Java, Python, Flutter & ReactJS!
-- I’m looking to collaborate with other open-source [GitHub][github] content creators.
-- *Fun fact*: I am a Cricket & Football enthusiast.
+- ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
+- Looking to collaborate with other open-source [GitHub][github] content creators.
+- ***Fun fact***: I am a Cricket & Football enthusiast.
+
+# Technical Skills
 
   ## *Languages*
   * **Java**
@@ -46,12 +48,12 @@
 
   ## *Connect with me*
 
-  *  [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
-    * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
-    * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
-    * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
-    * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
-    * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
+  * [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
+  * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
+  * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
+  * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
+  * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
+  * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
 
 # Languages and Tools
