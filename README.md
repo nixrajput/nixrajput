@@ -53,7 +53,6 @@
     * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
     * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
-<br />
 
 ## Languages and Tools
 
@@ -81,9 +80,11 @@
 
 [<img align="left" alt="PostGreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
 
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+## Github Stats
 
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][me]
+
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][me]
 
 <br />
 <br />
