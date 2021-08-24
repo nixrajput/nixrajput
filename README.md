@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://github.com/nixrajput/nixrajput/blob/master/cover.png" height="200"/>
+</p>
+
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][me] 👋
 
-## I'm a Student, Developer, and Founder of [NixLab][website].
+## I'm a Student, Full Stack Developer, and Founder of [NixLab][website].
 
 - I’m a well experienced developer in Java, Python, Flutter & ReactJS!
 - I’m looking to collaborate with other open-source [GitHub][github] content creators.
@@ -13,8 +17,10 @@
 - Dart
 - C++
 - JavaScript
-- RDBMS
-- Ethical Hacking
+- HTML5
+- CSS
+- MySQL, PostgreSQL, SQLite, MongoDB
+- Linux
 
 ### Technical Specialization
 
