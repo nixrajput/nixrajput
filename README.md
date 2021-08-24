@@ -1,8 +1,8 @@
-# Hi there, I'm NIKHIL KUMAR- aka [nixrajput][me] 👋
+# Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][me] 👋
 
 ## I'm a Student, Developer, and Founder of [NixLab][website].
 
-- I’m currently working on Java, Flutter, ReactJS & Python!
+- I’m a well experienced developer in Java, Python, Flutter & ReactJS!
 - I’m looking to collaborate with other open-source [GitHub][github] content creators.
 - Fun fact: I am a Cricket & Football enthusiast.
 
