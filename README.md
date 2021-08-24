@@ -31,8 +31,6 @@
   * **HTML5**
   * **CSS**
 
-  <br />
-
   ## *Databases*
 
   * **MySQL**
@@ -40,15 +38,11 @@
   * **MongoDB**
   * **SQLite**
 
-  <br />
-
   ## *Frameworks*
 
   * **Flutter**
   * **React JS**
   * **Django**
-
-  <br />
 
   ## *Connect with me*
 
@@ -96,9 +90,9 @@
 
 ---
 
-[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true" />][me]
+[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark" />][me]
 
-[<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true" />][me]
+[<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark" />][me]
 
 [github]: https://github.com
 [me]: https://github.com/nixrajput
