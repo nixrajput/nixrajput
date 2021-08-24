@@ -22,16 +22,14 @@
 - Looking to collaborate with other open-source [GitHub][github] content creators.
 - ***Fun fact***: I am a Cricket & Football enthusiast.
 
-# Technical Skills
-
   ## *Languages*
-  * **Java**
-  * **Python**
-  * **Dart**
-  * **C++**
-  * **JavaScript**
-  * **HTML5**
-  * **CSS**
+    * **Java**
+    * **Python**
+    * **Dart**
+    * **C++**
+    * **JavaScript**
+    * **HTML5**
+    * **CSS**
 
   ## *Databases*
 
