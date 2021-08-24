@@ -8,19 +8,21 @@
 <img src="https://komarev.com/ghpvc/?username=nixrajput" alt="arman"/> 
 </p>
 
-# 💻 Work Profile
+# Work Profile
 
   * **Web Development Intern @ Career Corner Solution Pvt Ltd.**
   * **Flutter Developer @ Techox LLP.**
   * **Founder & CEO of [NixLab][website].**
 
-# 💻 Personal Details
+<br />
 
-I'm a Student & Full Stack Developer.
+# Personal Details
+
+**I'm a Student & Full Stack Developer.**
 
 - I’m a well experienced developer in Java, Python, Flutter & ReactJS!
 - I’m looking to collaborate with other open-source [GitHub][github] content creators.
-- Fun fact: I am a Cricket & Football enthusiast.
+- *Fun fact*: I am a Cricket & Football enthusiast.
 
   ## *Languages*
   * **Java**
@@ -54,12 +56,11 @@ I'm a Student & Full Stack Developer.
 
   *  [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
     * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
-    * [![Facebook: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nixrajput/)](https://www.facebook.com/nixrajput)
+    * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
     * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
     * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
     * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
-<br />
 
 ## Languages and Tools
 
