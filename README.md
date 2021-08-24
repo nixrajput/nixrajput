@@ -4,48 +4,64 @@
 
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][me] 👋
 
-## I'm a Student, Full Stack Developer, and Founder of [NixLab][website].
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nixrajput" alt="arman"/> 
+</p>
+
+# 💻 Work Profile
+
+  * **Web Development Intern @ Career Corner Solution Pvt Ltd.**
+  * **Flutter Developer @ Techox LLP.**
+  * **Founder & CEO of [NixLab][website].**
+
+# 💻 Personal Details
+
+I'm a Student & Full Stack Developer.
 
 - I’m a well experienced developer in Java, Python, Flutter & ReactJS!
 - I’m looking to collaborate with other open-source [GitHub][github] content creators.
 - Fun fact: I am a Cricket & Football enthusiast.
 
-### Technical Skills
+  ## *Languages*
+  * **Java**
+  * **Python**
+  * **Dart**
+  * **C++**
+  * **JavaScript**
+  * **HTML5**
+  * **CSS**
 
-- Java
-- Python
-- Dart
-- C++
-- JavaScript
-- HTML5
-- CSS
-- MySQL, PostgreSQL, SQLite, MongoDB
-- Linux
+  <br />
 
-### Technical Specialization
+  ## *Databases*
 
-- Flutter
-- React
-- Django
-- Firebase
+  * **MySQL**
+  * **PostgreSQL**
+  * **MongoDB**
+  * **SQLite**
 
-### Connect with me
+  <br />
 
-[<img align="left" alt="nixrajput | Website" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/globe-icon.svg" />][website]
+  ## *Frameworks*
 
-[<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][me]
+  * **Flutter**
+  * **React JS**
+  * **Django**
 
-[<img align="left" alt="nixrajput | Facebook" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/facebook-brands.svg" />][facebook]
+  <br />
 
-[<img align="left" alt="nixrajput | Instagram" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/instagram-brands.svg" />][instagram]
+  ## *Connect with me*
 
-[<img align="left" alt="nixrajput | Twitter" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/twitter-brands.svg" />][twitter]
-
-[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/linkedin-in-brands.svg" />][linkedin]
+  *  [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
+    * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
+    * [![Facebook: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nixrajput/)](https://www.facebook.com/nixrajput)
+    * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
+    * [![GitHub: nixrajput](https://img.shields.io/github/followers/nixrajput?label=follow&style=social)](https://github.com/nixrajput)
+    * [![Gmail Badge](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
 <br />
 
-### Languages and Tools
+## Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
