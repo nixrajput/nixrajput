@@ -22,7 +22,7 @@
 
 - ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
 - Looking to collaborate with other open-source [GitHub][github] content creators.
-- ***Fun fact***: I am a Cricket & Football enthusiast.
+- ***Fun fact*** - I am a Cricket & Football enthusiast.
 
   ## *Languages*
     * **Java**
@@ -45,6 +45,12 @@
   * **Flutter**
   * **React JS**
   * **Django**
+
+  ## Other Skills
+
+  * **Linux**
+  * **Firebase**
+  * **AWS**
 
   ## *Connect with me*
 
