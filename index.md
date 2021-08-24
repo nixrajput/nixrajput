@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nixrajput/nixrajput/blob/master/dev.svg" width="100%"/>
+  <img src="dev.svg" width="100%" alt="cover-img"/>
 </p>
 
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][me] 👋
