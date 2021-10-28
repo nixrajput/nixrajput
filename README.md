@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover_nix.webp" width="100%" alt="cover-img"/>
+  <img src="cover.webp" width="100%" alt="cover-img"/>
 </p>
 
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
@@ -14,8 +14,6 @@
 * **Web Development Intern @ Career Corner Solution Pvt Ltd.**
 * **Worked as a Flutter Developer @ Techox LLP to develop a mobile application (LodgeGuru Mobile App).**
 * **Founder & CEO of [NixLab][website].**
-
-<br>
 
 # Personal Details
 
