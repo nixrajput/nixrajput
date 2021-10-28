@@ -5,15 +5,15 @@
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nixrajput&style=flat-square" alt="nixrajput views"/> 
+<img src="https://komarev.com/ghpvc/?username=nixrajput&style=flat-square" alt="nixrajput views"/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nixrajput?style=flat-square">
 </p>
 
 # Work Profile
 
-  * **Web Development Intern @ Career Corner Solution Pvt Ltd.**
-  * **Worked as a Flutter Developer @ Techox LLP to develop a mobile application (LodgeGuru Mobile App).**
-  * **Founder & CEO of [NixLab][website].**
+* **Web Development Intern @ Career Corner Solution Pvt Ltd.**
+* **Worked as a Flutter Developer @ Techox LLP to develop a mobile application (LodgeGuru Mobile App).**
+* **Founder & CEO of [NixLab][website].**
 
 <br>
 
@@ -21,46 +21,47 @@
 
 *I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
 
-- Looking to collaborate with other open-source [GitHub][github] content creators.
-- ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
-- ***Fun fact*** - I am a Cricket & Football enthusiast.
+* Looking to collaborate with other open-source [GitHub][github] content creators.
+* ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
+* ***Fun fact*** - I am a Cricket & Football enthusiast.
 
-  ## *Languages*
-    * **Java**
-    * **Python**
-    * **Dart**
-    * **C++**
-    * **JavaScript**
-    * **HTML5**
-    * **CSS**
+## *Languages*
 
-  ## *Databases*
+* **Java**
+* **Python**
+* **Dart**
+* **C++**
+* **JavaScript**
+* **HTML5**
+* **CSS**
 
-    * **MySQL**
-    * **PostgreSQL**
-    * **MongoDB**
-    * **SQLite**
+## *Databases*
 
-  ## *Frameworks*
+* **MySQL**
+* **PostgreSQL**
+* **MongoDB**
+* **SQLite**
 
-    * **Flutter**
-    * **React JS**
-    * **Django**
+## *Frameworks*
 
-  ## Other Skills
+* **Flutter**
+* **React JS**
+* **Django**
 
-    * **Linux**
-    * **Firebase**
-    * **AWS**
+## Other Skills
 
-  ## *Connect with me*
+* **Linux**
+* **Firebase**
+* **AWS**
 
-    * [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
-    * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
-    * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
-    * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
-    * [![Website: nixlab](https://img.shields.io/badge/-nixlab-blue?style=social&logo=GoogleChrome&link=https://nixlab.co.in)](https://nixlab.co.in)
-    * [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
+## *Connect with me*
+
+* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
+* [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
+* [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
+* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
+* [![Website: nixlab](https://img.shields.io/badge/-nixlab-blue?style=social&logo=GoogleChrome&link=https://nixlab.co.in)](https://nixlab.co.in)
+* [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
 <br>
 
