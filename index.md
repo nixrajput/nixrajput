@@ -12,7 +12,7 @@
 # Work Profile
 
   * **Web Development Intern @ Career Corner Solution Pvt Ltd.**
-  * **Flutter Developer @ Techox LLP.**
+  * **Worked as a Flutter Developer @ Techox LLP to develop a mobile application (LodgeGuru Mobile App).**
   * **Founder & CEO of [NixLab][website].**
 
 <br>
@@ -21,8 +21,8 @@
 
 *I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
 
-- ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
 - Looking to collaborate with other open-source [GitHub][github] content creators.
+- ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
 - ***Fun fact*** - I am a Cricket & Football enthusiast.
 
   ## *Languages*
