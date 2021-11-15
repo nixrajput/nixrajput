@@ -84,7 +84,7 @@
 
 # Github Stats
 
-[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" />][me]
+[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark&count_private=true" />][me]
 
 [<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark&layout=compact" />][me]
 
