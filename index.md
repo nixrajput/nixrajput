@@ -12,24 +12,24 @@
 # Work Profile
 
 * **Web Development Intern @ Career Corner Solution Pvt Ltd.**
-* **Worked as a Flutter Developer @ Techox LLP to develop a mobile application (LodgeGuru Mobile App).**
-* **Founder & CEO of [NixLab][website].**
+* **Full Stack Development Intern @ Techox LLP.**
+* **Founder & CEO of [NixLab Technologies][website].**
 
 # Personal Details
 
 *I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
 
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Java, Python, Flutter, ReactJS, HTML & CSS.
+* ***Ask me about*** - Dart, Python, Java, Flutter, ReactJS, HTML & CSS.
 * ***Fun fact*** - I am a Cricket & Football enthusiast.
 
 ## *Languages*
 
-* **Java**
-* **Python**
 * **Dart**
-* **C++**
+* **Python**
+* **Java**
 * **JavaScript**
+* **C++**
 * **HTML5**
 * **CSS**
 
@@ -51,6 +51,7 @@
 * **Linux**
 * **Firebase**
 * **AWS**
+* **Azure**
 
 ## *Connect with me*
 
@@ -84,7 +85,7 @@
 
 # Github Stats
 
-[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark&count_private=true" />][me]
+[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" />][me]
 
 [<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark&layout=compact" />][me]
 
