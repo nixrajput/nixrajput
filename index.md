@@ -20,7 +20,7 @@
 *I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
 
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Dart, Python, Java, Flutter, ReactJS, HTML & CSS.
+* ***Ask me about*** - Dart, Flutter, Python, Java, ReactJS, ExpressJS & NodeJS.
 * ***Fun fact*** - I am a Cricket & Football enthusiast.
 
 ## *Languages*
@@ -43,7 +43,10 @@
 ## *Frameworks*
 
 * **Flutter**
-* **React JS**
+* **ReactJS**
+* **ExpressJS**
+* **NodeJS**
+* **NextJS**
 * **Django**
 
 ## Other Skills
@@ -51,14 +54,13 @@
 * **Linux**
 * **Firebase**
 * **AWS**
-* **Azure**
 
 ## *Connect with me*
 
 * [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
 * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
 * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
-* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
+* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput_?style=social)](https://twitter.com/nixrajput_)
 * [![Website: nixlab](https://img.shields.io/badge/-nixlab-blue?style=social&logo=GoogleChrome&link=https://nixlab.co.in)](https://nixlab.co.in)
 * [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
 
@@ -94,6 +96,6 @@
 [portfolio]: https://nixrajput.github.io/nixrajput
 [website]: https://nixlab.co.in
 [facebook]: https://facebook.com/nixrajput07
-[twitter]: https://facebook.com/nixrajput07
+[twitter]: https://facebook.com/nixrajput_
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
