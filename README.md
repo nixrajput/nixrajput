@@ -96,6 +96,6 @@
 [portfolio]: https://nixrajput.github.io/nixrajput
 [website]: https://nixlab.co.in
 [facebook]: https://facebook.com/nixrajput07
-[twitter]: https://facebook.com/nixrajput_
+[twitter]: https://facebook.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
