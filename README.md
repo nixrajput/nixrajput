@@ -93,7 +93,7 @@
 
 [github]: https://github.com
 [me]: https://github.com/nixrajput
-[portfolio]: https://nixrajput.github.io/nixrajput
+[portfolio]: https://nixrajput.nixlab.co.in
 [website]: https://nixlab.co.in
 [facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
