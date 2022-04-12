@@ -9,10 +9,16 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nixrajput?style=flat-square">
 </p>
 
+# Github Stats
+
+[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" />][me]
+
+[<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark&layout=compact" />][me]
+
 # Work Profile
 
-* **Web Development Intern @ Career Corner Solution Pvt Ltd.**
-* **Full Stack Development Intern @ Techox LLP.**
+* **Full Stack Development Intern at Techox LLP.**
+* **Worked as a Web Development Intern at Career Corner Solution Pvt Ltd.**
 * **Founder & CEO of [NixLab Technologies][website].**
 
 # Personal Details
@@ -20,25 +26,21 @@
 *I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
 
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Dart, Flutter, Python, Java, ReactJS, ExpressJS & NodeJS.
+* ***Ask me about*** - Flutter, ReactJS, ExpressJS & NodeJS.
 * ***Fun fact*** - I am a Cricket & Football enthusiast.
 
 ## *Languages*
 
-* **Dart**
 * **Python**
-* **Java**
 * **JavaScript**
-* **C++**
+* **Dart**
+* **Java**
+* **C/C++**
+
+## *Web Technologies*
+
 * **HTML5**
 * **CSS**
-
-## *Databases*
-
-* **MySQL**
-* **PostgreSQL**
-* **MongoDB**
-* **SQLite**
 
 ## *Frameworks*
 
@@ -49,8 +51,16 @@
 * **NextJS**
 * **Django**
 
+## *Databases*
+
+* **MySQL**
+* **PostgreSQL**
+* **MongoDB**
+* **SQLite**
+
 ## Other Skills
 
+* **Git**
 * **Linux**
 * **Firebase**
 * **AWS**
@@ -85,11 +95,6 @@
 
 <br>
 
-# Github Stats
-
-[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" />][me]
-
-[<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark&layout=compact" />][me]
 
 [github]: https://github.com
 [me]: https://github.com/nixrajput
