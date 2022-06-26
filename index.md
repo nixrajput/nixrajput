@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover-dev.png" width="100%" alt="cover-img"/>
+  <img src="cover-dev.png" width="100%" height="400px" alt="cover-img"/>
 </p>
 
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
