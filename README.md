@@ -94,6 +94,8 @@
 [<img align="left" alt="PostGreSQL" width="32px" src="icons/postgresql.png" />][portfolio]
 [<img align="left" alt="MongoDB" width="32px" src="icons/mongodb.png" />][portfolio]
 [<img align="left" alt="Linux" width="32px" src="icons/linux.png" />][portfolio]
+[<img align="left" alt="Github" width="32px" src="icons/github.png" />][portfolio]
+[<img align="left" alt="VS Code" width="32px" src="icons/vscode.png" />][portfolio]
 
 <br>
 
