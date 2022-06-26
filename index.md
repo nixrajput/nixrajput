@@ -18,37 +18,35 @@
 # Work Profile
 
 * **Full Stack Development Intern at Techox LLP.**
-* **Worked as a Web Development Intern at Career Corner Solution Pvt Ltd.**
+* **Web Development Intern at Career Corner Solution Pvt Ltd.**
 * **Founder & CEO of [NixLab Technologies][website].**
 
 # Personal Details
 
-*I am an inquisitive Full Stack Developer who is well experienced and trained in cross-platform coding. I am a quick-learner, energentic and self-motivated person skilled in leadership.*
+*I am an enthusiastic and self-motivated computer science specialist skilled in cross-platform development. As for the future I want to secure a responsible and progressive career opportunity to fully utilize my skills and training, and to learn the latest technological as well as non-technological advancements.*
 
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Flutter, ReactJS, ExpressJS & NodeJS.
-* ***Fun fact*** - I am a Cricket & Football enthusiast.
+* ***Ask me about*** - Flutter, C++, ReactJS & NodeJS.
+* ***Fun fact*** - I love to play and watch Cricket as well as Football.
 
 ## *Languages*
 
-* **Python**
-* **JavaScript**
 * **Dart**
-* **Java**
-* **C/C++**
+* **C++**
+* **JavaScript**
+* **Python**
 
 ## *Web Technologies*
 
 * **HTML5**
 * **CSS**
+* **Sass**
 
 ## *Frameworks*
 
 * **Flutter**
 * **ReactJS**
-* **ExpressJS**
 * **NodeJS**
-* **NextJS**
 * **Django**
 
 ## *Databases*
@@ -60,9 +58,9 @@
 
 ## Other Skills
 
-* **Git**
-* **Linux**
 * **Firebase**
+* **Git**
+* **Ubuntu**
 * **AWS**
 
 ## *Connect with me*
@@ -80,7 +78,6 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/cpp/cpp.png" />][portfolio]
-[<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][portfolio]
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />][portfolio]
 [<img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][portfolio]
 [<img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][portfolio]
@@ -90,7 +87,7 @@
 [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][portfolio]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][portfolio]
 [<img align="left" alt="PostGreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][portfolio]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
+[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongo/mongo.png" />][portfolio]
 [<img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 
 <br>
