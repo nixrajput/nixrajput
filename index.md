@@ -76,19 +76,24 @@
 
 # Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
-[<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/cpp/cpp.png" />][portfolio]
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />][portfolio]
-[<img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][portfolio]
-[<img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][portfolio]
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
-[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][portfolio]
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
-[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][portfolio]
-[<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][portfolio]
-[<img align="left" alt="PostGreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][portfolio]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongo/mongo.png" />][portfolio]
-[<img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
+
+[<img align="left" alt="C++" width="32px" src="icons/cpp.png" />][portfolio]
+[<img align="left" alt="Dart" width="32px" src="icons/dart.png" />][portfolio]
+[<img align="left" alt="Flutter" width="32px" src="icons/flutter.png" />][portfolio]
+[<img align="left" alt="HTML5" width="32px" src="icons/html5.png" />][portfolio]
+[<img align="left" alt="CSS3" width="32px" src="icons/css.png" />][portfolio]
+[<img align="left" alt="Sass" width="32px" src="icons/sass.png" />][portfolio]
+[<img align="left" alt="JavaScript" width="32px" src="icons/javascript.png" />][portfolio]
+[<img align="left" alt="Node.js" width="32px" src="icons/node-js.png" />][portfolio]
+[<img align="left" alt="React.js" width="32px" src="icons/react.png" />][portfolio]
+[<img align="left" alt="Redux" width="32px" src="icons/redux.png" />][portfolio]
+[<img align="left" alt="Python" width="32px" src="icons/python.png" />][portfolio]
+[<img align="left" alt="Django" width="32px" src="icons/django.png" />][portfolio]
+[<img align="left" alt="Python" width="32px" src="icons/firebase.png" />][portfolio]
+[<img align="left" alt="MySQL" width="32px" src="icons/mysql.png" />][portfolio]
+[<img align="left" alt="PostGreSQL" width="32px" src="icons/postgresql.png" />][portfolio]
+[<img align="left" alt="MongoDB" width="32px" src="icons/mongodb.png" />][portfolio]
+[<img align="left" alt="Linux" width="32px" src="icons/linux.png" />][portfolio]
 
 <br>
 
