@@ -48,7 +48,6 @@
 * **React.js**
 * **Node.js**
 * **Next.js**
-* **Django**
 
 ## *Databases*
 
@@ -74,35 +73,33 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="C++" width="48px" src="icons/cpp.png" />][portfolio]
-[<img align="left" alt="Dart" width="48px" src="icons/dart.png" />][portfolio]
-[<img align="left" alt="Flutter" width="48px" src="icons/flutter.png" />][portfolio]
-[<img align="left" alt="HTML5" width="48px" src="icons/html5.png" />][portfolio]
-[<img align="left" alt="CSS3" width="48px" src="icons/css.png" />][portfolio]
-[<img align="left" alt="Sass" width="48px" src="icons/sass.png" />][portfolio]
-[<img align="left" alt="JavaScript" width="48px" src="icons/javascript.png" />][portfolio]
-[<img align="left" alt="Node.js" width="48px" src="icons/node-js.png" />][portfolio]
-[<img align="left" alt="React.js" width="48px" src="icons/react.png" />][portfolio]
-[<img align="left" alt="Redux" width="48px" src="icons/redux.png" />][portfolio]
-[<img align="left" alt="Python" width="48px" src="icons/python.png" />][portfolio]
-[<img align="left" alt="Django" width="48px" src="icons/django.png" />][portfolio]
-[<img align="left" alt="Python" width="48px" src="icons/firebase.png" />][portfolio]
-[<img align="left" alt="MySQL" width="48px" src="icons/mysql.png" />][portfolio]
-[<img align="left" alt="PostGreSQL" width="48px" src="icons/postgresql.png" />][portfolio]
-[<img align="left" alt="MongoDB" width="48px" src="icons/mongodb.png" />][portfolio]
-[<img align="left" alt="Linux" width="48px" src="icons/linux.png" />][portfolio]
-[<img align="left" alt="Github" width="48px" src="icons/github.png" />][portfolio]
-[<img alt="VS Code" width="48px" src="icons/vscode.png" />][portfolio]
+<p>
+<img align="left" alt="C++" width="48px" src="icons/cpp.png" />
+<img align="left" alt="Dart" width="48px" src="icons/dart.png" />
+<img align="left" alt="Flutter" width="48px" src="icons/flutter.png" />
+<img align="left" alt="HTML5" width="48px" src="icons/html5.png" />
+<img align="left" alt="CSS3" width="48px" src="icons/css.png" />
+<img align="left" alt="Sass" width="48px" src="icons/sass.png" />
+<img align="left" alt="JavaScript" width="48px" src="icons/javascript.png" />
+<img align="left" alt="Node.js" width="48px" src="icons/node-js.png" />
+<img align="left" alt="React.js" width="48px" src="icons/react.png" />
+<img align="left" alt="Redux" width="48px" src="icons/redux.png" />
+<img align="left" alt="Python" width="48px" src="icons/python.png" />
+<img align="left" alt="Django" width="48px" src="icons/django.png" />
+<img align="left" alt="Python" width="48px" src="icons/firebase.png" />
+<img align="left" alt="MySQL" width="48px" src="icons/mysql.png" />
+<img align="left" alt="PostGreSQL" width="48px" src="icons/postgresql.png" />
+<img align="left" alt="MongoDB" width="48px" src="icons/mongodb.png" />
+<img align="left" alt="Linux" width="48px" src="icons/linux.png" />
+<img align="left" alt="Github" width="48px" src="icons/github.png" />
+<img  alt="VS Code" width="48px" src="icons/vscode.png" />
+</p>
 
 ## Github Stats
 
 [<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" width="480" />][me]
-<br>
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=vue-dark" alt="nixrajput" width="480"/>][me]
-<br>
 [<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark" width="480" />][me]
-
-<br>
 
 [github]: https://github.com
 [me]: https://github.com/nixrajput
