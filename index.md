@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">&nbsp;
-  <a><img src="https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark" alt="nixrajput" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark" alt="nixrajput" />
  </p>
 
 ## Personal Details
@@ -92,14 +92,14 @@
 [<img align="left" alt="MongoDB" width="48px" src="icons/mongodb.png" />][portfolio]
 [<img align="left" alt="Linux" width="48px" src="icons/linux.png" />][portfolio]
 [<img align="left" alt="Github" width="48px" src="icons/github.png" />][portfolio]
-[<img align="left" alt="VS Code" width="48px" src="icons/vscode.png" />][portfolio]
-
-<br>
+[<img alt="VS Code" width="48px" src="icons/vscode.png" />][portfolio]
 
 ## Github Stats
 
 [<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" width="480" />][me]
+<br>
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=vue-dark" alt="nixrajput" width="480"/>][me]
+<br>
 [<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark" width="480" />][me]
 
 <br>
