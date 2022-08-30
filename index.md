@@ -65,7 +65,7 @@
 
 ## *Connect with me*
 
-* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput/)
+* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput)
 * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
 * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
 * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
