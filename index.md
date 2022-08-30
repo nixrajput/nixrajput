@@ -94,6 +94,8 @@
 [<img align="left" alt="Github" width="48px" src="icons/github.png" />][portfolio]
 [<img align="left" alt="VS Code" width="48px" src="icons/vscode.png" />][portfolio]
 
+<br>
+
 ## Github Stats
 
 [<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" width="480" />][me]
