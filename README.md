@@ -9,7 +9,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nixrajput?style=flat-square">
 </p>
 
-<p align="center">&nbsp;
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark" alt="nixrajput" />
  </p>
 
