@@ -100,7 +100,9 @@
 ## Github Stats
 
 [![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark)][me]
+
 [![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark)][me]
+
 [![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=vue-dark)][me]
 
 [github]: https://github.com
