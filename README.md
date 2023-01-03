@@ -1,28 +1,24 @@
-<p align="center">
-  <img src="dev.png" height="400px" width="auto" alt="cover-img"/>
-</p>
-
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nixrajput&style=flat-square" alt="nixrajput views"/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/nixrajput?style=flat-square">
-</p>
+![Cover Image](https://res.cloudinary.com/nixlab-cloudinary-storage/image/upload/v1672734010/portfolio/dev_dst5pc.png)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark" alt="nixrajput" />
- </p>
+![GitHub followers](https://img.shields.io/github/followers/nixrajput?style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/nixrajput?affiliations=OWNER&style=flat-square)
+![GitHub views](https://komarev.com/ghpvc/?username=nixrajput&style=flat-square)
+
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark)][github]
 
 ## Personal Details
 
-**I am a Software Engineer specialized in both front-end and back-end development across platforms.**
+**I'm a Software Engineer, Developer, and a Learner!**
 
 * Passionate about building and designing software that is user-friendly and easy to use.
+* Specialized in both front-end and back-end development across platforms.
 * Proficient in Dart, JavaScript, and C++.
 * Strong in design and integration of front-end and back-end technologies.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Flutter, React.js, and Node.js.
-* ***Fun fact*** - I love to play and watch Cricket as well as Football.
+* ***Ask me about*** - Flutter, Dart, React.js & Node.js.
+* ***Fun fact*** - I love to play cricket and football.
 
 ## Work Profile
 
@@ -65,47 +61,53 @@
 
 ## *Connect with me*
 
-* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)](https://www.linkedin.com/in/nixrajput)
-* [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)](https://www.instagram.com/nixrajput)
-* [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)](https://www.facebook.com/nixrajput07)
-* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)](https://twitter.com/nixrajput07)
-* [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)](mailto:nkr.nikhil.nkr@gmail.com)
+* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)][linkedin]
+* [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)][instagram]
+* [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)][facebook]
+* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
+* [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
 ## Languages and Tools
 
-<p>
-<img align="left" alt="C++" width="48px" src="icons/cpp.png" />
-<img align="left" alt="Dart" width="48px" src="icons/dart.png" />
-<img align="left" alt="Flutter" width="48px" src="icons/flutter.png" />
-<img align="left" alt="HTML5" width="48px" src="icons/html5.png" />
-<img align="left" alt="CSS3" width="48px" src="icons/css.png" />
-<img align="left" alt="Sass" width="48px" src="icons/sass.png" />
-<img align="left" alt="JavaScript" width="48px" src="icons/javascript.png" />
-<img align="left" alt="Node.js" width="48px" src="icons/node-js.png" />
-<img align="left" alt="React.js" width="48px" src="icons/react.png" />
-<img align="left" alt="Redux" width="48px" src="icons/redux.png" />
-<img align="left" alt="Python" width="48px" src="icons/python.png" />
-<img align="left" alt="Django" width="48px" src="icons/django.png" />
-<img align="left" alt="Python" width="48px" src="icons/firebase.png" />
-<img align="left" alt="MySQL" width="48px" src="icons/mysql.png" />
-<img align="left" alt="PostGreSQL" width="48px" src="icons/postgresql.png" />
-<img align="left" alt="MongoDB" width="48px" src="icons/mongodb.png" />
-<img align="left" alt="Linux" width="48px" src="icons/linux.png" />
-<img align="left" alt="Github" width="48px" src="icons/github.png" />
-<img  alt="VS Code" width="48px" src="icons/vscode.png" />
-</p>
+[![Dart](https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2)][github]
+[![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E)][github]
+[![C++](https://img.shields.io/badge/C++-282C34?logo=C%2B%2B&logoColor=00599C)][github]
+[![Python](https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB)][github]
+
+[![Flutter](https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B)][github]
+[![React](https://img.shields.io/badge/React-282C34?logo=React)][github]
+[![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=Node.js)][github]
+[![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=Next.js)][github]
+
+[![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=E34F26)][github]
+[![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=1572B6)][github]
+[![Sass](https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=CC6699)][github]
+
+[![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=FFCA28)][github]
+[![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=fff)][github]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=fff)][github]
+[![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248)][github]
+[![SQLite](https://img.shields.io/badge/SQLite-282C34?logo=SQLite)][github]
+
+[![Git](https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032)][github]
+[![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=fff)][github]
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420)][github]
+[![AWS](https://img.shields.io/badge/AWS-282C34?logo=Amazon-AWS&logoColor=fff)][github]
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=Visual-Studio-Code&logoColor=007ACC)][github]
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-282C34?logo=Android-Studio&logoColor=3DDC84)][github]
 
 ## Github Stats
 
-[<img alt="nixrajput's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark" width="480" />][me]
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=vue-dark" alt="nixrajput" width="480"/>][me]
-[<img alt="nixrajput's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark" width="480" />][me]
+[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark)][me]
+[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark)][me]
+[![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=vue-dark)][me]
 
 [github]: https://github.com
 [me]: https://github.com/nixrajput
 [portfolio]: https://nixrajput.nixlab.co.in
-[website]: https://nixlab.co.in
 [facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
+[gmail]: mailto:nkr.nikhil.nkr@gmail.com
