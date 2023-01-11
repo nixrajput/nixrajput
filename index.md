@@ -2,9 +2,9 @@
 
 ![Cover Image](https://res.cloudinary.com/nixlab-cloudinary-storage/image/upload/v1672734010/portfolio/dev_dst5pc.png)
 
-![GitHub followers](https://img.shields.io/github/followers/nixrajput?style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/nixrajput?affiliations=OWNER&style=flat-square)
-![GitHub views](https://komarev.com/ghpvc/?username=nixrajput&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/nixrajput?label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/nixrajput?affiliations=OWNER&label=Stars)
+![GitHub views](https://komarev.com/ghpvc/?username=nixrajput&label=Profile+Views)
 
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark)][github]
 
