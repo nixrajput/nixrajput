@@ -1,7 +1,5 @@
 # Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
 
-![Cover Image](https://res.cloudinary.com/nixlab-cloudinary-storage/image/upload/v1672734010/portfolio/dev_dst5pc.png)
-
 ![GitHub followers](https://img.shields.io/github/followers/nixrajput?label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/nixrajput?affiliations=OWNER&label=Stars)
 ![GitHub views](https://komarev.com/ghpvc/?username=nixrajput&label=Profile+Views)
@@ -18,10 +16,11 @@
 * Strong in design and integration of front-end and back-end technologies.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
 * ***Ask me about*** - Flutter, Dart, React.js & Node.js.
-* ***Fun fact*** - I love to play cricket and football.
+* ***Fun fact*** - Cricket & Football Enthusiast.
 
 ## Work Profile
 
+* **Tech Lead at Merito.**
 * **Full Stack Development Intern at Techox LLP.**
 * **Web Development Intern at Career Corner Solution Pvt Ltd.**
 
@@ -63,9 +62,9 @@
 
 * [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)][linkedin]
 * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)][instagram]
-* [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)][facebook]
 * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
 * [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+<!-- * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)][facebook] -->
 
 ## Languages and Tools
 
@@ -108,7 +107,6 @@
 [github]: https://github.com
 [me]: https://github.com/nixrajput
 [portfolio]: https://nixrajput.nixlab.co.in
-[facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
