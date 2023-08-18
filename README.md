@@ -12,30 +12,25 @@
 
 * Passionate about building and designing software that is user-friendly and easy to use.
 * Specialized in both front-end and back-end development across platforms.
-* Proficient in Dart, JavaScript, and C++.
+* Proficient in Dart and JavaScript.
 * Strong in design and integration of front-end and back-end technologies.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Flutter, Dart, React.js & Node.js.
+* ***Ask me about*** - Flutter, Dart, React.js, Next.js & Node.js.
 * ***Fun fact*** - Cricket & Football Enthusiast.
 
 ## Work Profile
 
-* **Tech Lead at Merito.**
-* **Full Stack Development Intern at Techox LLP.**
-* **Web Development Intern at Career Corner Solution Pvt Ltd.**
+* Full Stack Developer(Tech Lead) at **Merito**.
+* Full Stack Development Intern at **TECHOX LLP**.
+* Web Development Intern at **Career Corner Solution Pvt Ltd**.
 
 ## *Languages*
 
 * **Dart**
 * **JavaScript**
+* **TypeScript**
 * **C++**
 * **Python**
-
-## *Web Technologies*
-
-* **HTML5**
-* **CSS**
-* **Sass**
 
 ## *Frameworks*
 
@@ -43,6 +38,13 @@
 * **React.js**
 * **Node.js**
 * **Next.js**
+* **Express.js**
+
+## *Web Technologies*
+
+* **HTML5**
+* **CSS**
+* **Sass**
 
 ## *Databases*
 
@@ -64,7 +66,6 @@
 * [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)][instagram]
 * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
 * [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
-<!-- * [![Facebook: nixrajput07](https://img.shields.io/badge/-nixrajput07-blue?style=social&logo=Facebook&link=https://www.facebook.com/nixrajput07/)][facebook] -->
 
 ## Languages and Tools
 
