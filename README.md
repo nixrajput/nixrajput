@@ -20,7 +20,7 @@
 
 ## Work Profile
 
-* Full Stack Developer(Tech Lead) at **Merito**.
+* Full Stack Developer (Tech Lead) at **Merito**.
 * Full Stack Development Intern at **TECHOX LLP**.
 * Web Development Intern at **Career Corner Solution Pvt Ltd**.
 
