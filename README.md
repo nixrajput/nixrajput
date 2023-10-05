@@ -100,11 +100,11 @@
 
 ## Github Stats
 
-[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)][me]
-[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)][me]
+[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
+[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
 
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)][me]
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)][me]
+[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
+[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
 
 [![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
 [![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
