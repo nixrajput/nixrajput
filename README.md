@@ -15,8 +15,14 @@
 * Proficient in Dart and JavaScript.
 * Strong in design and integration of front-end and back-end technologies.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Flutter, Dart, React.js, Next.js & Node.js.
+* ***Ask me about*** - Flutter, React.js, Next.js & Node.js.
 * ***Fun fact*** - Cricket & Football Enthusiast.
+
+## Sponsor Me
+
+🌟 By sponsoring my efforts, you're not merely contributing to the development of my projects; you're investing in its growth and sustainability. Your support empowers me to dedicate more time and resources to improving the project's features, addressing issues, and ensuring its continued relevance in the rapidly evolving landscape of technology. Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community. Thank you for considering sponsoring my work!
+
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
 
 ## Work Profile
 
@@ -29,8 +35,6 @@
 * **Dart**
 * **JavaScript**
 * **TypeScript**
-* **C++**
-* **Python**
 
 ## *Frameworks*
 
@@ -48,9 +52,9 @@
 
 ## *Databases*
 
+* **MongoDB**
 * **MySQL**
 * **PostgreSQL**
-* **MongoDB**
 * **SQLite**
 
 ## Other Skills
@@ -62,48 +66,48 @@
 
 ## *Connect with me*
 
-* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput/)][linkedin]
-* [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput/)][instagram]
+* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput)][linkedin]
+* [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
 * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
+* [![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
 * [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
 ## Languages and Tools
 
-[![Dart](https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2)][github]
-[![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E)][github]
-[![C++](https://img.shields.io/badge/C++-282C34?logo=C%2B%2B&logoColor=00599C)][github]
-[![Python](https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB)][github]
+[![Dart](https://img.shields.io/badge/Dart-EFF7F6?logo=Dart&logoColor=4597CE)][github]
+[![JavaScript](https://img.shields.io/badge/JavaScript-EFF7F6?logo=JavaScript)][github]
+[![TypeScript](https://img.shields.io/badge/TypeScript-EFF7F6?logo=TypeScript)][github]
 
-[![Flutter](https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B)][github]
-[![React](https://img.shields.io/badge/React-282C34?logo=React)][github]
-[![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=Node.js)][github]
-[![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=Next.js)][github]
+[![Flutter](https://img.shields.io/badge/Flutter-EFF7F6?logo=Flutter&logoColor=0553B1)][github]
+[![React](https://img.shields.io/badge/React-EFF7F6?logo=React)][github]
+[![Node.js](https://img.shields.io/badge/Node.js-EFF7F6?logo=Node.js)][github]
+[![Next.js](https://img.shields.io/badge/Next.js-EFF7F6?logo=Next.js&logoColor=191919)][github]
 
-[![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=E34F26)][github]
-[![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=1572B6)][github]
-[![Sass](https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=CC6699)][github]
+[![HTML5](https://img.shields.io/badge/HTML5-EFF7F6?logo=HTML5)][github]
+[![CSS3](https://img.shields.io/badge/CSS3-EFF7F6?logo=CSS3&logoColor=2965f1)][github]
+[![Sass](https://img.shields.io/badge/Sass-EFF7F6?logo=Sass)][github]
 
-[![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=FFCA28)][github]
-[![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=fff)][github]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=fff)][github]
-[![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248)][github]
-[![SQLite](https://img.shields.io/badge/SQLite-282C34?logo=SQLite)][github]
+[![Firebase](https://img.shields.io/badge/Firebase-EFF7F6?logo=Firebase)][github]
+[![MySQL](https://img.shields.io/badge/MySQL-EFF7F6?logo=MySQL&logoColor=F29111)][github]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EFF7F6?logo=PostgreSQL&logoColor=0064A5)][github]
+[![MongoDB](https://img.shields.io/badge/MongoDB-EFF7F6?logo=MongoDB)][github]
+[![SQLite](https://img.shields.io/badge/SQLite-EFF7F6?logo=SQLite&logoColor=1C89D0)][github]
 
-[![Git](https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032)][github]
-[![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=fff)][github]
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu&logoColor=E95420)][github]
-[![AWS](https://img.shields.io/badge/AWS-282C34?logo=Amazon-AWS&logoColor=fff)][github]
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=Visual-Studio-Code&logoColor=007ACC)][github]
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-282C34?logo=Android-Studio&logoColor=3DDC84)][github]
+[![Git](https://img.shields.io/badge/Git-EFF7F6?logo=Git)][github]
+[![GitHub](https://img.shields.io/badge/GitHub-EFF7F6?logo=GitHub&logoColor=333)][github]
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-EFF7F6?logo=Ubuntu)][github]
+[![AWS](https://img.shields.io/badge/AWS-EFF7F6?logo=Amazon-AWS&logoColor=FF9900)][github]
 
 ## Github Stats
 
-[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=vue-dark)][me]
+[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)][me]
+[![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)][me]
 
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=vue-dark)][me]
+[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)][me]
+[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)][me]
 
-[![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=vue-dark)][me]
+[![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
+[![nixrajput's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nixrajput&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
 
 [github]: https://github.com
 [me]: https://github.com/nixrajput
@@ -112,3 +116,4 @@
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
 [gmail]: mailto:nkr.nikhil.nkr@gmail.com
+[telegram]: https://telegram.me/nixrajput
