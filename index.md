@@ -1,26 +1,27 @@
-# Hi there, I'm NIKHIL RAJPUT - aka [nixrajput][portfolio] 👋
+# Hi there, I'm [NIKHIL RAJPUT][portfolio] 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/nixrajput?label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/nixrajput?affiliations=OWNER&label=Stars)
 ![GitHub views](https://komarev.com/ghpvc/?username=nixrajput&label=Profile+Views)
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&row=2&column=3&theme=vue-dark)][github]
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&column=3&row=2&theme=onedark&no-bg=true)][github]
 
 ## Personal Details
 
 **I'm a Software Engineer, Developer, and a Learner!**
 
-* Passionate about building and designing software that is user-friendly and easy to use.
-* Specialized in both front-end and back-end development across platforms.
-* Proficient in Dart and JavaScript.
-* Strong in design and integration of front-end and back-end technologies.
+* Dedicated to creating and designing user-centric software that prioritizes ease of use.
+* Proficient in development for both front-end and back-end across various platforms.
+* Skilled in seamlessly integrating front-end and back-end technologies while excelling in design.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
 * ***Ask me about*** - Flutter, React.js, Next.js & Node.js.
 * ***Fun fact*** - Cricket & Football Enthusiast.
 
 ## Sponsor Me
 
-🌟 By sponsoring my efforts, you're not merely contributing to the development of my projects; you're investing in its growth and sustainability. Your support empowers me to dedicate more time and resources to improving the project's features, addressing issues, and ensuring its continued relevance in the rapidly evolving landscape of technology. Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community. Thank you for considering sponsoring my work!
+* By sponsoring my efforts, you're not merely contributing to the development of my projects; you're investing in its growth and sustainability. Your support empowers me to dedicate more time and resources to improving the project's features, addressing issues, and ensuring its continued relevance in the rapidly evolving landscape of technology.
+* Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
+* Thank you for considering sponsoring my work!
 
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
 
@@ -66,11 +67,11 @@
 
 ## *Connect with me*
 
-* [![Linkedin: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-* [![Instagram: nixrajput](https://img.shields.io/badge/-nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
+* [![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput)][linkedin]
+* [![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
 * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
 * [![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-* [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/-nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+* [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
 ## Languages and Tools
 
