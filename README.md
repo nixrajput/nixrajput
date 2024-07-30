@@ -4,9 +4,7 @@
 
 ## About Me
 
-**I'm a Software Engineer and a Full Stack Developer!**
-
-* Dedicated Full Stack Developer from India with 2+ years of experience.
+* Dedicated Software Developer from India with over 2 years of experience.
 * Proficient in front-end and back-end development.
 * Skilled in excelling with modern tech stacks and writing clean code.
 * Looking to collaborate with other open-source [GitHub][github] content creators.
@@ -15,9 +13,10 @@
 
 ## Work Profile
 
-* Working as a Full Stack Developer at **Merito**.
-* Worked as a Full Stack Development Intern at **TECHOX LLP**.
-* Worked as a Web Development Intern at **Career Corner Solution Pvt Ltd**.
+* Working as a Junior Software Development Engineer at [StarApps Studio](https://www.starapps.studio).
+* Worked as a Full Stack Developer at [Merito](https://merito.ai).
+* Worked as a Full Stack Development Intern at [TECHOX LLP](https://techox.co.in).
+* Worked as a Web Development Intern at [Career Corner Education](https://career-corner.in).
 
 ## Skills and Technologies
 
@@ -64,7 +63,7 @@
 
 ### **Others**
 
-* [![Firebase](https://img.shields.io/badge/Firebase-EFF7F6?logo=Firebase)][github]
+* [![Firebase](https://img.shields.io/badge/Firebase-EFF7F6?logo=Firebase&logoColor=FF9100)][github]
 * [![Ubuntu](https://img.shields.io/badge/Ubuntu-EFF7F6?logo=Ubuntu)][github]
 
 ## Sponsor Me
