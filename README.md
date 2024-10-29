@@ -11,7 +11,7 @@ Hello! I'm a passionate Software Developer from India with over **2 years of han
 * 💬 **Ask Me About:** Node.js, React.js, Next.js, and Flutter.
 * ⚽ **Fun Fact:** I'm a cricket and football enthusiast.
 
-If you're here, don't forget to [follow me][github] to stay updated on my latest projects and contributions!
+If you're here, don't forget to [follow me](https://github.com/nixrajput) to stay updated on my latest projects and contributions!
 
 ## 💼 Work Experience
 
