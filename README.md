@@ -2,23 +2,25 @@
 
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&column=3&row=2&theme=onedark&no-bg=true)][portfolio]
 
-## About Me
+## 🚀 About Me
 
-* Dedicated Software Developer from India with over 2 years of experience.
-* Proficient in front-end and back-end development.
-* Skilled in excelling with modern tech stacks and writing clean code.
-* Looking to collaborate with other open-source [GitHub][github] content creators.
-* ***Ask me about*** - Node.js, React.js, Next.js & Flutter.
-* ***Fun fact*** - Cricket & Football Enthusiast.
+Hello! I'm a passionate Software Developer from India with over **2 years of hands-on experience** in crafting high-quality software solutions. My journey in tech has been fueled by a commitment to clean, maintainable code and a drive to stay at the forefront of modern technology.
 
-## Work Profile
+* 🌐 **Full-Stack Developer:** Skilled in both front-end and back-end technologies.
+* 📈 **Open-Source Contributor:** Actively looking to collaborate with fellow open-source creators on [GitHub][github].
+* 💬 **Ask Me About:** Node.js, React.js, Next.js, and Flutter.
+* ⚽ **Fun Fact:** I'm a cricket and football enthusiast.
 
-* Working as a Junior Software Development Engineer at [StarApps Studio](https://www.starapps.studio).
-* Worked as a Full Stack Developer at [Merito](https://merito.ai).
-* Worked as a Full Stack Development Intern at [TECHOX LLP](https://techox.co.in).
-* Worked as a Web Development Intern at [Career Corner Education](https://career-corner.in).
+If you're here, don't forget to [follow me][github] to stay updated on my latest projects and contributions!
 
-## Skills and Technologies
+## 💼 Work Experience
+
+* **Software Development Engineer** at [StarApps Studio](https://www.starapps.studio).
+* **Full Stack Developer** at [Merito](https://merito.ai).
+* **Full Stack Development Intern** at [TECHOX LLP](https://techox.co.in).
+* **Web Development Intern** at [Career Corner Education](https://career-corner.in).
+
+## 💻 Skills & Technologies
 
 ### **Programming Languages**
 
@@ -53,28 +55,19 @@
 * [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EFF7F6?logo=PostgreSQL&logoColor=0064A5)][github]
 * [![SQLite](https://img.shields.io/badge/SQLite-EFF7F6?logo=SQLite&logoColor=1C89D0)][github]
 
-### **DevOps/VCS**
+### **DevOps & Tools**
 
 * [![Git](https://img.shields.io/badge/Git-EFF7F6?logo=Git)][github]
 * [![GitHub](https://img.shields.io/badge/GitHub-EFF7F6?logo=GitHub&logoColor=333)][github]
 * [![GitLab](https://img.shields.io/badge/GitLab-EFF7F6?logo=GitLab)][github]
 * [![Docker](https://img.shields.io/badge/Docker-EFF7F6?logo=Docker&logoColor=0553B1)][github]
 * [![AWS](https://img.shields.io/badge/AWS-EFF7F6?logo=amazonwebservices&logoColor=FF9900)][github]
-
-### **Others**
-
 * [![Firebase](https://img.shields.io/badge/Firebase-EFF7F6?logo=Firebase&logoColor=FF9100)][github]
 * [![Ubuntu](https://img.shields.io/badge/Ubuntu-EFF7F6?logo=Ubuntu)][github]
 
-## Sponsor Me
+## ❤️ Support My Work
 
-By sponsoring my efforts, you're not merely contributing to the development of my projects; you're investing in its growth and sustainability.
-
-Your support empowers me to dedicate more time and resources to improving the project's features, addressing issues, and ensuring its continued relevance in the rapidly evolving landscape of technology.
-
-Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
-
-Thank you for considering sponsoring my work!
+Your support helps me dedicate more time to developing high-quality, impactful projects in the open-source community. Sponsor me, and together, let’s bring even more innovation to life!
 
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
 
@@ -82,15 +75,15 @@ Thank you for considering sponsoring my work!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nixrajput)
 
-## Connect with me
+## 🌐 Connect with Me
 
 * [![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput)][linkedin]
 * [![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
 * [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
 * [![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-* [![Gmail: nkr.nikhi.nkr](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+* [![Gmail: nkr.nikhil.nkr](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
-## Github Stats
+## 📊 GitHub Stats
 
 [![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
 [![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
