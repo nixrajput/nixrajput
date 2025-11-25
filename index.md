@@ -1,103 +1,296 @@
-# Hi there 👋, I'm [NIKHIL RAJPUT!][portfolio]
+<div align="center">
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&column=3&row=2&theme=onedark&no-bg=true)][portfolio]
+# Hi there, I'm Nikhil Rajput 👋
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-FF6B35?style=for-the-badge)][portfolio]
+[![X (Twitter)](https://img.shields.io/badge/𝕏_X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Sponsor](https://img.shields.io/badge/💖_SPONSOR-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/nixrajput)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-Hello! I'm a passionate Software Developer from India with over **2 years of hands-on experience** in crafting high-quality software solutions. My journey in tech has been fueled by a commitment to clean, maintainable code and a drive to stay at the forefront of modern technology.
+I'm a **Software Development Engineer (SDE)** with over **2+ years of professional experience** specializing in building scalable, high-performance applications using modern technologies. I've been passionate about coding since **2015** during my school days, and my expertise spans across **full-stack development**, **mobile applications**, **cloud infrastructure**, and **AI adoption and integration**.
 
-* 🌐 **Full-Stack Developer:** Skilled in both front-end and back-end technologies.
-* 📈 **Open-Source Contributor:** Actively looking to collaborate with fellow open-source creators on [GitHub][github].
-* 💬 **Ask Me About:** Node.js, React.js, Next.js, and Flutter.
-* ⚽ **Fun Fact:** I'm a cricket and football enthusiast.
+### My Work
 
-If you're here, don't forget to [follow me](https://github.com/nixrajput) to stay updated on my latest projects and contributions!
+I'm currently working at **[StarApps Studio](https://www.starapps.studio)** as a **Software Development Engineer**, where I've been contributing for the past year. Our mission is to shape exceptional experiences for **Shopify merchants** by developing innovative Shopify apps that solve real-world problems and address daily challenges faced by e-commerce businesses.
+
+I'm also actively **exploring, learning, and leading my team in AI adoption and integration**, where I've successfully implemented cutting-edge AI features into our Shopify apps. These implementations automate and enhance the merchant experience, making complex tasks simpler and more efficient for e-commerce businesses.
+
+### 🎯 My Passion
+
+I'm deeply committed to **Open-Source Software (OSS)** and actively contribute to the community whenever possible. I maintain several impactful repositories and packages (featured in the Projects section below) that help developers solve real-world problems.
+
+**OSS** has been instrumental in my growth as an engineer, and I believe in giving back to the community that has helped shape my career.
+
+If you appreciate my work and want to support me, you can [sponsor me on GitHub][sponsor]. ❤️
+
+---
 
 ## 💼 Work Experience
 
-* **Software Development Engineer** at [StarApps Studio](https://www.starapps.studio).
-* **Full Stack Developer** at [Merito](https://merito.ai).
-* **Full Stack Development Intern** at [TECHOX LLP](https://techox.co.in).
-* **Web Development Intern** at [Career Corner Education](https://career-corner.in).
+- **Software Development Engineer (SDE)** at [StarApps Studio](https://www.starapps.studio)
+- **Full Stack Developer** at [Merito](https://merito.ai)
 
-## 💻 Skills & Technologies
+---
 
-### **Programming Languages**
+## 🔥 Projects
 
-* [![JavaScript](https://img.shields.io/badge/JavaScript-EFF7F6?logo=JavaScript)][github]
-* [![TypeScript](https://img.shields.io/badge/TypeScript-EFF7F6?logo=TypeScript)][github]
-* [![Dart](https://img.shields.io/badge/Dart-EFF7F6?logo=Dart&logoColor=4597CE)][github]
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Language</th>
+    <th>Stars</th>
+    <th>Forks</th>
+    <th>Issues</th>
+    <th>Pull Requests</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/portfolio-nextjs">
+        <img src="https://img.shields.io/badge/portfolio--nextjs-2C3E50?style=flat-square" alt="portfolio-nextjs"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/nixrajput/portfolio-nextjs?style=flat-square&color=yellow" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/nixrajput/portfolio-nextjs?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/nixrajput/portfolio-nextjs?style=flat-square&color=green" alt="issues"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/nixrajput/portfolio-nextjs?style=flat-square&color=green" alt="pull requests"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/social-media-app-flutter">
+        <img src="https://img.shields.io/badge/social--media--app--flutter-2C3E50?style=flat-square" alt="social-media-app-flutter"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/nixrajput/social-media-app-flutter?style=flat-square&color=yellow" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/nixrajput/social-media-app-flutter?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/nixrajput/social-media-app-flutter?style=flat-square&color=green" alt="issues"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/nixrajput/social-media-app-flutter?style=flat-square&color=green" alt="pull requests"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/flutter_carousel_widget">
+        <img src="https://img.shields.io/badge/flutter__carousel__widget-2C3E50?style=flat-square" alt="flutter_carousel_widget"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/nixrajput/flutter_carousel_widget?style=flat-square&color=yellow" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/nixrajput/flutter_carousel_widget?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/nixrajput/flutter_carousel_widget?style=flat-square&color=green" alt="issues"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/nixrajput/flutter_carousel_widget?style=flat-square&color=green" alt="pull requests"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/video-calling-app-flutter">
+        <img src="https://img.shields.io/badge/video--calling--app--flutter-2C3E50?style=flat-square" alt="video-calling-app-flutter"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/nixrajput/video-calling-app-flutter?style=flat-square&color=yellow" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/nixrajput/video-calling-app-flutter?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/nixrajput/video-calling-app-flutter?style=flat-square&color=green" alt="issues"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/nixrajput/video-calling-app-flutter?style=flat-square&color=green" alt="pull requests"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/get_time_ago">
+        <img src="https://img.shields.io/badge/get__time__ago-2C3E50?style=flat-square" alt="get_time_ago"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/nixrajput/get_time_ago?style=flat-square&color=yellow" alt="stars"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/nixrajput/get_time_ago?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/nixrajput/get_time_ago?style=flat-square&color=green" alt="issues"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/nixrajput/get_time_ago?style=flat-square&color=green" alt="pull requests"/>
+    </td>
+  </tr>
+</table>
 
-### **Frontend Development**
+If you appreciate my work and want to support me, you can [sponsor me on GitHub][sponsor]. ❤️
 
-* [![React.js](https://img.shields.io/badge/React.js-EFF7F6?logo=React)][github]
-* [![Next.js](https://img.shields.io/badge/Next.js-EFF7F6?logo=Next.js&logoColor=191919)][github]
-* [![HTML5](https://img.shields.io/badge/HTML-EFF7F6?logo=HTML5)][github]
-* [![CSS3](https://img.shields.io/badge/CSS-EFF7F6?logo=CSS3&logoColor=2965f1)][github]
-* [![Sass](https://img.shields.io/badge/Sass-EFF7F6?logo=Sass)][github]
-* [![Redux](https://img.shields.io/badge/Redux-EFF7F6?logo=Redux&logoColor=0553B1)][github]
+---
 
-### **Backend Development**
+## 🧰 My Toolbox
 
-* [![Node.js](https://img.shields.io/badge/Node.js-EFF7F6?logo=Node.js)][github]
-* [![Express.js](https://img.shields.io/badge/Express.js-EFF7F6?logo=Express&logoColor=0553B1)][github]
-* [![Socket.io](https://img.shields.io/badge/Socket.io-EFF7F6?logo=Socket.io&logoColor=0553B1)][github]
+<div align="center">
 
-### **Mobile App Development**
+### Languages
 
-* [![Flutter](https://img.shields.io/badge/Flutter-EFF7F6?logo=Flutter&logoColor=0553B1)][github]
-* [![GetX](https://img.shields.io/badge/GetX-EFF7F6?logo=GetX&logoColor=0553B1)][github]
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Database Management:**
+### Frontend
 
-* [![MongoDB](https://img.shields.io/badge/MongoDB-EFF7F6?logo=MongoDB)][github]
-* [![MySQL](https://img.shields.io/badge/MySQL-EFF7F6?logo=MySQL&logoColor=F29111)][github]
-* [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EFF7F6?logo=PostgreSQL&logoColor=0064A5)][github]
-* [![SQLite](https://img.shields.io/badge/SQLite-EFF7F6?logo=SQLite&logoColor=1C89D0)][github]
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### **DevOps & Tools**
+### Backend
 
-* [![Git](https://img.shields.io/badge/Git-EFF7F6?logo=Git)][github]
-* [![GitHub](https://img.shields.io/badge/GitHub-EFF7F6?logo=GitHub&logoColor=333)][github]
-* [![GitLab](https://img.shields.io/badge/GitLab-EFF7F6?logo=GitLab)][github]
-* [![Docker](https://img.shields.io/badge/Docker-EFF7F6?logo=Docker&logoColor=0553B1)][github]
-* [![AWS](https://img.shields.io/badge/AWS-EFF7F6?logo=amazonwebservices&logoColor=FF9900)][github]
-* [![Firebase](https://img.shields.io/badge/Firebase-EFF7F6?logo=Firebase&logoColor=FF9100)][github]
-* [![Ubuntu](https://img.shields.io/badge/Ubuntu-EFF7F6?logo=Ubuntu)][github]
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-## ❤️ Support My Work
+### Mobile
 
-Your support helps me dedicate more time to developing high-quality, impactful projects in the open-source community. Sponsor me, and together, let’s bring even more innovation to life!
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
+### Database
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nixrajput)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nixrajput)
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Claude_Code-FF6F00?style=for-the-badge&logo=claude&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+Your support enables me to dedicate more time to creating high-quality, impactful open-source projects. By sponsoring, you're directly contributing to innovation and helping me continue building tools that benefit the entire developer community!
+
+<div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/nixrajput)
+
+[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nixrajput)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nixrajput)
+
+</div>
 
 ## 🌐 Connect with Me
 
-* [![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-* [![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-* [![Twitter: nixrajput07](https://img.shields.io/twitter/follow/nixrajput07?style=social)][twitter]
-* [![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-blue?style=social&logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-* [![Gmail: nkr.nikhil.nkr](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-blue?style=social&logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Twitter](<https://img.shields.io/badge/X(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white>)][twitter]
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
+
+</div>
 
 ## 📊 GitHub Stats
+
+<div align="center">
 
 [![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
 [![nixrajput's Github Stats](https://github-readme-stats.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
 
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
-[![nixrajput's Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
+[![nixrajput's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
+[![nixrajput's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
 
 [![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/nixrajput/github-readme-stats#gh-light-mode-only)
 
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&column=3&row=2&theme=onedark&no-bg=true)][portfolio]
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐️ Star my repositories if you find them useful!
+
+### 💼 Open for collaboration and exciting opportunities
+
+**Thank you for visiting my profile!** 🙏
+
+</div>
+
+---
+
 [github]: https://github.com
 [portfolio]: https://nixrajput.com
-[twitter]: https://facebook.com/nixrajput07
+[twitter]: https://twitter.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://www.linkedin.com/in/nixrajput
 [gmail]: mailto:nkr.nikhil.nkr@gmail.com
 [telegram]: https://telegram.me/nixrajput
+[sponsor]: https://github.com/sponsors/nixrajput
