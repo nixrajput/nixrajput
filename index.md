@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-I'm a **Software Development Engineer (SDE)** and **AI Lead** with over **2+ years of professional experience** specializing in building scalable, high-performance applications using modern technologies. I've been passionate about coding since **2015** during my school days, and my expertise spans across **full-stack development**, **mobile applications**, **cloud infrastructure**, and **AI/ML integration**.
+I'm a **Software Development Engineer (SDE)** and **AI Lead** with over **3+ years of professional experience** specializing in building scalable, high-performance applications using modern technologies. I've been passionate about coding since **2015** during my school days, and my expertise spans across **full-stack development**, **mobile applications**, **cloud infrastructure**, and **AI/ML integration**.
 
 ### My Work
 
-I'm currently working at **[StarApps Studio](https://www.starapps.studio)** as a **Software Development Engineer** and **AI Lead**, where I've been contributing for the past year. Our mission is to shape exceptional experiences for **Shopify merchants** by developing innovative Shopify apps that solve real-world problems and address daily challenges faced by e-commerce businesses.
+I'm currently working at **[StarApps Studio](https://www.starapps.studio)** as a **Software Development Engineer** and **AI Lead**, where I've been contributing since **July 2024**. Our mission is to shape exceptional experiences for **Shopify merchants** by developing innovative Shopify apps that solve real-world problems and address daily challenges faced by e-commerce businesses.
 
 As the **AI Lead**, I guide my team in exploring and integrating cutting-edge AI/ML technologies into our products and adopting AI-first approaches for research, development, and implementation. I've successfully implemented AI-powered features that automate complex workflows and significantly enhance the merchant experience, making e-commerce management more intuitive and efficient.
 
@@ -33,8 +33,10 @@ If you appreciate my work and want to support me, you can [sponsor me on GitHub]
 
 ## 💼 Work Experience
 
-- **Software Development Engineer (SDE) & AI Lead** at [StarApps Studio](https://www.starapps.studio)
-- **Full Stack Developer** at [Merito](https://merito.ai)
+- **Software Development Engineer (SDE) & AI Lead** - [StarApps Studio](https://www.starapps.studio), Pune, India · _Jul 2024 - Present_
+- **Full Stack Developer** - [Merito](https://merito.ai), Pune, India · _Feb 2023 - Jul 2024_
+- **Full Stack Development Intern** - TECHOX LLP, Remote · _May 2021 - Jul 2022_
+- **Web Development Intern** - Career Corner Education Pvt Ltd, Remote · _Jul 2021 - Nov 2021_
 
 ---
 
@@ -147,38 +149,6 @@ If you appreciate my work and want to support me, you can [sponsor me on GitHub]
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/nixrajput/video-calling-app-flutter" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/video--calling--app--flutter-2C3E50?style=flat-square" alt="video-calling-app-flutter"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nixrajput/video-calling-app-flutter" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nixrajput/video-calling-app-flutter/stargazers" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/github/stars/nixrajput/video-calling-app-flutter?style=flat-square&color=yellow" alt="stars"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nixrajput/video-calling-app-flutter/network/members" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/github/forks/nixrajput/video-calling-app-flutter?style=flat-square&color=blue" alt="forks"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nixrajput/video-calling-app-flutter/issues" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/github/issues/nixrajput/video-calling-app-flutter?style=flat-square&color=green" alt="issues"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/nixrajput/video-calling-app-flutter/pulls" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/github/issues-pr/nixrajput/video-calling-app-flutter?style=flat-square&color=green" alt="pull requests"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/nixrajput/get_time_ago" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/get__time__ago-2C3E50?style=flat-square" alt="get_time_ago"/>
       </a>
@@ -206,6 +176,70 @@ If you appreciate my work and want to support me, you can [sponsor me on GitHub]
     <td>
       <a href="https://github.com/nixrajput/get_time_ago/pulls" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/github/issues-pr/nixrajput/get_time_ago?style=flat-square&color=green" alt="pull requests"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/mcp-vitest" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/mcp--vitest-2C3E50?style=flat-square" alt="mcp-vitest"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/mcp-vitest" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/mcp-vitest/stargazers" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/stars/nixrajput/mcp-vitest?style=flat-square&color=yellow" alt="stars"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/mcp-vitest/network/members" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/forks/nixrajput/mcp-vitest?style=flat-square&color=blue" alt="forks"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/mcp-vitest/issues" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/issues/nixrajput/mcp-vitest?style=flat-square&color=green" alt="issues"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/mcp-vitest/pulls" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/issues-pr/nixrajput/mcp-vitest?style=flat-square&color=green" alt="pull requests"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nixrajput/ai-sdk-threads" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/ai--sdk--threads-2C3E50?style=flat-square" alt="ai-sdk-threads"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/ai-sdk-threads" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/ai-sdk-threads/stargazers" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/stars/nixrajput/ai-sdk-threads?style=flat-square&color=yellow" alt="stars"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/ai-sdk-threads/network/members" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/forks/nixrajput/ai-sdk-threads?style=flat-square&color=blue" alt="forks"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/ai-sdk-threads/issues" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/issues/nixrajput/ai-sdk-threads?style=flat-square&color=green" alt="issues"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nixrajput/ai-sdk-threads/pulls" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/issues-pr/nixrajput/ai-sdk-threads?style=flat-square&color=green" alt="pull requests"/>
       </a>
     </td>
   </tr>
@@ -310,16 +344,22 @@ Your support enables me to dedicate more time to creating high-quality, impactfu
 
 <div align="center">
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=nixrajput&column=5&row=2&theme=onedark&no-bg=true)][portfolio]
+[![Github Profile Trophy](https://github-profile-trophy.nixrajput.com/?username=nixrajput&column=5&row=2&theme=onedark&no-bg=true)][portfolio]
 
-[![nixrajput's Github Stats](https://github-readme-stats-nixlab.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats-nixlab.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
-[![nixrajput's Github Stats](https://github-readme-stats-nixlab.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github-readme-stats-nixlab.vercel.app/api?username=nixrajput&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.nixrajput.com/api?username=nixrajput&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.nixrajput.com/api?username=nixrajput&show_icons=true&hide_border=true&theme=default" alt="nixrajput's Github Stats" />
+</picture>
 
-[![nixrajput's Top Languages](https://github-readme-stats-nixlab.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats-nixlab.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)
-[![nixrajput's Top Languages](https://github-readme-stats-nixlab.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github-readme-stats-nixlab.vercel.app/api/top-langs/?username=nixrajput&hide_border=true&theme=default#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.nixrajput.com/api/top-langs/?username=nixrajput&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.nixrajput.com/api/top-langs/?username=nixrajput&hide_border=true&theme=default" alt="nixrajput's Top Languages" />
+</picture>
 
-[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=dark#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=default#gh-light-mode-only)](https://github-readme-streak-stats-nixlab.vercel.app?user=nixrajput&hide_border=true&theme=default#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.nixrajput.com?user=nixrajput&hide_border=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.nixrajput.com?user=nixrajput&hide_border=true&theme=default" alt="GitHub Streak" />
+</picture>
 
 </div>
 
